@@ -71,7 +71,7 @@
         <!-- Register Donor -->
         <a href="registration.php" class="card">
             <div class="icon">🩸</div>
-            <h3>Register Donor</h3>
+            <h3>Register Donors</h3>
             <p>Add a new donor to the blood bank</p>
         </a>
 
